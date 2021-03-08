@@ -1,5 +1,5 @@
 {
-    "name": "Bayu29/tripay-payment-laravel",
+    "name": "bayu29/tripay-payment-laravel",
     "description": "Development & Integration Toolkit from payment.tripay.co.id",
     "type": "library",
     "require": {
